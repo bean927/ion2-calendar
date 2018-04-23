@@ -32,7 +32,7 @@ live demo [click me](https://hsuanxyz.github.io/demo/ion2-calendar/).
 
 # Usage
 ### Installation
-`$ npm install ion2-calendar moment --save`
+`$ npm install bean927/ion2-calendar moment --save`
 
 ### Import module
 
