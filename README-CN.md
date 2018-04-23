@@ -29,7 +29,7 @@ live demo [click me](https://hsuanxyz.github.io/demo/ion2-calendar/).
 
 # 使用
 ### 安装
-`$ npm install ion2-calendar moment --save`
+`$ npm install bean927/ion2-calendar moment --save`
 
 ### 引入模块
 
